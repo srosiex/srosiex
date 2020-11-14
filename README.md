@@ -3,6 +3,7 @@
 ### 🎃 Hi! I'm Sarah <br>
 ##### ✨ Fullstack Developer | Artist | Always Learning ✨
 
+![hi](https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif)
 ----------
 
 * 💻 Bootcamp grad @ Flatiron School
