@@ -20,3 +20,6 @@
 <a href="https://github.com/srosiex">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=srosiex&layout=compact&theme=radical" />
 </a>
+
+_____
+![](https://komarev.com/ghpvc/?username=srosiex&color=ff69b4)
